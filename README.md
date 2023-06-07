@@ -15,6 +15,6 @@ https://github.com/Jiwoncoding
 💡 **Blog**
 https://velog.io/@wontwopunch
 
-**22/10~ Notion TIL**
+💡 **22/10~ Notion TIL**
 https://jiwontwopunch.notion.site/jiwontwopunch/TIL-74def6f52a6e4747b820a10f00c3d7cb
 
