@@ -15,6 +15,6 @@ https://github.com/Jiwoncoding
 💡 **Blog**
 https://velog.io/@wontwopunch
 
-**22년 10월부터는 다음의 Notion TIL에 정리**
+**22/10~ Notion TIL**
 https://jiwontwopunch.notion.site/jiwontwopunch/TIL-74def6f52a6e4747b820a10f00c3d7cb
 
