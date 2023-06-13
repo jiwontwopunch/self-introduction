@@ -1,6 +1,6 @@
 ## 1년차 프론트엔드 개발자, 이직 준비하다!
 
-이직준비를 위해 새롭게 github과 velog 개발 블로그를 생성!
+이직준비를 위해 새롭게 github과 velog 개발 블로그를 생성! 주 React, NextJS, Flutter
 
 💡 **Blog**
 https://velog.io/@jiwontwopunch
